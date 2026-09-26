@@ -1,0 +1,12 @@
+# ninja log v6
+6	521	8010914709718381	CMakeFiles/projeto_manuel_leticia.dir/main.cpp.obj	e570cf100116a13b
+5	448	8010916332388063	build.ninja	793e3689296940db
+29	173	8010916334186194	CMakeFiles/projeto_manuel_leticia.dir/fracao.cpp.obj	b06186b29499b37c
+25	584	8010916334156189	CMakeFiles/projeto_manuel_leticia.dir/condomino.cpp.obj	fb842379a5f76051
+59	1019	8010916334497904	CMakeFiles/projeto_manuel_leticia.dir/TipoMovimento.cpp.obj	56af714216b538a7
+22	1101	8010916334126057	CMakeFiles/projeto_manuel_leticia.dir/main.cpp.obj	e570cf100116a13b
+41	1145	8010916334313343	CMakeFiles/projeto_manuel_leticia.dir/listafracoes.cpp.obj	38179e7e39e7ec44
+47	1176	8010916334372254	CMakeFiles/projeto_manuel_leticia.dir/gestorCondominio.cpp.obj	7160116c21a5aa66
+35	1187	8010916334245236	CMakeFiles/projeto_manuel_leticia.dir/listacondominos.cpp.obj	735eecf8734495a2
+53	1271	8010916334442891	CMakeFiles/projeto_manuel_leticia.dir/Movimentos.cpp.obj	8c7646d9a3b26f51
+1271	1782	8010916346615600	projeto_manuel_leticia.exe	8ec8e1ebd3ed234d
